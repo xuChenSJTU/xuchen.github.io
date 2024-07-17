@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile. [* indicates the equal contribution and † indicates the corresponding author]</a>.</div>
+  <div class="wordwrap">[* indicates the equal contribution and † indicates the corresponding author]. You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile. </a>.</div>
 {% endif %}
 
 News
