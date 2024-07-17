@@ -11,9 +11,8 @@ author_profile: true
 
 News
 ======
-1 **Trustworthy machine learning**  
-2 **Information retrieval**  
-3 **Knowledge transfer**  
+**·** [2024.07] Our work is accepted by ECCV 2024, about innovative acceleration of foundation models.
+**·** [2024.02] Our work is accepted by WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.   
 
 Papers
 ======
