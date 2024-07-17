@@ -31,7 +31,7 @@ Damo Acedemy, Alibaba Group
 
 Education
 ------
-**·** Algorithm Expert (May, 2024 -- Now)  
+**·** Doctor of Philosophy (August, 2021 -- May, 2022)   
 Faculty of Engineering and Information Technology, University of Technology Sydney  
 Supervised by [Prof.Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang)
 
