@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xu Chen is currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy machine learning and information retrieval. Before taking the faculty job, he received the PhD degree from Cooperative Medianet Innovation Center, Shanghai Jiao Tong University (SJTU) in 2021.09.
+Xu Chen is currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy machine learning and information retrieval. Before taking the faculty job, he received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
 He also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. He has published top journal and conference papers. He has been the PC members of conferences including ICML, NeurIPS, ICLR, KDD and serve as the reviewers of TPAMI, TNNLS, MLJ.
 
 Research Interests
@@ -19,9 +19,9 @@ Research Interests
 Job Experience
 ------
 **·** **Algorithm Expert** (May, 2024 -- Now)  
-Pailitao, Alibaba Group    
+Taobao, Alibaba Group    
 **·** **Senior Algorithm Engineer** (October, 2021 -- May, 2024)  
-Pailitao, Alibaba Group  
+Taobao, Alibaba Group  
 **·** **Research Intern** (September, 2020 -- December, 2020)  
 Damo Acedemy, Alibaba Group  
 
