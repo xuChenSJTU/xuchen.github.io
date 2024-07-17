@@ -20,10 +20,10 @@ Conference and Journal Papers
 1. Turbo: Informativity-driven acceleration plug-in for vision-language models
    Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
    ECCV
-2. Turbo: Informativity-driven acceleration plug-in for vision-language models
+3. Turbo: Informativity-driven acceleration plug-in for vision-language models
    Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
    ECCV 
-3. Turbo: Informativity-driven acceleration plug-in for vision-language models
+4. Turbo: Informativity-driven acceleration plug-in for vision-language models
    Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
    ECCV 
 
