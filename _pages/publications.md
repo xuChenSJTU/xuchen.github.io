@@ -17,8 +17,13 @@ News
 
 Conference and Journal Papers
 ======
-3. **Trustworthy machine learning**  
-2. **Information retrieval**  
-1. Variational Collaborative Learning for User Probabilistic Representation
-   Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang  
+1. Turbo: Informativity-driven acceleration plug-in for vision-language models
+   Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
+   ECCV
+2. Turbo: Informativity-driven acceleration plug-in for vision-language models
+   Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
+   ECCV 
+3. Turbo: Informativity-driven acceleration plug-in for vision-language models
+   Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang
+   ECCV 
 
