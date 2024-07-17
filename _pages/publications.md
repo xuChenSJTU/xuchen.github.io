@@ -29,34 +29,40 @@ Papers
 4. Towards Equivalent Transformation of User Preferences in Cross Domain Recommendation     
    **Xu Chen**,Ya Zhang,Ivor Tsang,Yuangang Pan,Jingchao Su     
    ACM Transactions on Information Systems (ACM TOIS 2023)      
-7. Contrastive Attraction and Contrastive Repulsion for Representation Learning     
+5. Contrastive Attraction and Contrastive Repulsion for Representation Learning     
    Huangjie Zheng, **Xu Chen<sup>*</sup>**, Jiangchao Yao, Hongxia Yang, Chunyuan Li, Ya Zhang, Hao Zhang, Ivor Tsang, Jingren Zhou, Mingyuan Zhou     
-   Transactions on Machine Learning Research (TMLR 2023)       
-7. Symbiotic Graph Neural Networks for 3d Skeleton-based Human Action Recognition and Motion Prediction     
+   Transactions on Machine Learning Research (TMLR 2023)
+6. Active Sampling for Node Attribute Completion on Graphs     
+   Benyuan Liu, **Xu Chen**, Yanfeng Wang, Ya Zhang, Zhi Cao, Ivor Tsang     
+   arxiv 2023   
+7. Neural Message Passing for Visual Relationship Detection     
+   Yue Hu, Siheng Chen, **Xu Chen**, Ya Zhang, Xiao Gu     
+   International Conference on Machine Learning workshop (ICML workshop 2022)       
+8. Symbiotic Graph Neural Networks for 3d Skeleton-based Human Action Recognition and Motion Prediction     
    Maosen Li, Siheng Chen, **Xu Chen**, Ya Zhang, Yanfeng Wang, Qi Tian     
    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2021)    
-7. Learning on Attribute-Missing Graphs     
+9. Learning on Attribute-Missing Graphs     
    **Xu Chen**,Siheng Chen,Jiangchao Yao,Huangjie Zheng,Ya Zhang, Ivor W Tsang     
    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2020)    
-7. Learning Node Representations against Perturbations     
+10. Learning Node Representations against Perturbations     
    **Xu Chen**, Yuangang Pan, Ivor Tsang, Ya Zhang     
    Pattern Recognition (PR 2020)      
-7. Dual Graph Embedding for Object-Tag Link Prediction on the Knowledge Graph     
+11. Dual Graph Embedding for Object-Tag Link Prediction on the Knowledge Graph     
    Chenyang Li, **Xu Chen**, Ya Zhang, Siheng Chen, Dan Lv, Yanfeng Wang     
    IEEE International Conference on Knowledge Graphs (ICKG 2020)     
-7. Collaborative Adversarial Learning for Relational Learning on Multiple Bipartite Graphs     
+12. Collaborative Adversarial Learning for Relational Learning on Multiple Bipartite Graphs     
    Jingchao Su, **Xu Chen**, Ya Zhang, Siheng Chen, Dan Lv, Chenyang Li     
    IEEE International Conference on Knowledge Graphs (ICKG 2020)   
-7. Decoupled Variational Embedding for Signed Directed Networks     
+13. Decoupled Variational Embedding for Signed Directed Networks     
    **Xu Chen**, Jiangchao Yao, Maosen Li, Ya Zhang, Yanfeng Wang     
    ACM Transactions on the Web (TWEB 2019)   
-7. Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition     
+14. Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition     
    Maosen Li, Siheng Chen, **Xu Chen**, Ya Zhang, Yanfeng Wang, Qi Tian     
    International Conference on Computer Vision and Pattern Recognition (CVPR 2019)
-7. Recommendation with Hybrid Interest Model     
+15. Recommendation with Hybrid Interest Model     
    Hanqing Zhao, **Xu Chen**, Jiangchao Yao, Ya Zhang, Yanfeng Wang     
    IEEE International Conference on Data Mining Workshops (ICDM workshop 2018)
-7. Variational Collaborative Learning for User Probabilistic Representation     
+16. Variational Collaborative Learning for User Probabilistic Representation     
    Kenan Cui, **Xu Chen**, Jiangchao Yao, Ya Zhang     
    The AAAI-2019 workshop on recommender systems and natural language processing (AAAI workshop 2018)     
 
