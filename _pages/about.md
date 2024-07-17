@@ -27,7 +27,7 @@ Damo Acedemy, Alibaba Group
 
 Education
 ------
-**·** **Doctor of Philosophy** (August, 2021 -- May, 2022)   
+**·** **Doctor of Philosophy** (August, 2019 -- May, 2022)   
 Faculty of Engineering and Information Technology, University of Technology Sydney  
 Supervised by [Prof.Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang)  
 **·** **Doctor of Philosophy** (September, 2016 -- September, 2021)  
