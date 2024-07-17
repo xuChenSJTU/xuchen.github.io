@@ -12,9 +12,9 @@ He also received the dual PhD degree from University of Technology, Sydney (UTS)
 
 Research Interests
 ======
-· Trustworthy machine learning
-· Information retrieval 
-· Knowledge Transfer
+· Trustworthy machine learning 
+· Information retrieval  
+· Knowledge Transfer 
 
 Job Experience
 ------
