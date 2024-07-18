@@ -12,9 +12,9 @@ He also received the dual PhD degree from University of Technology, Sydney (UTS)
 
 Research Interests
 ======    
-**·** **Trustworthy representation learning**  graph representation learning / self-supervised learning / pretraining       
-**·** **Information retrieval**  ranking / recommendation / sequential modeling     
-**·** **Knowledge transfer**  cross-domain knowledge transfer / vLLMs' knowledge transfer      
+**·** **Trustworthy Representation Learning:**  graph representation learning / self-supervised learning / pretraining       
+**·** **Information Retrieval:**  ranking / recommendation / sequential modeling     
+**·** **Knowledge Transfer:**  cross-domain knowledge transfer / vLLMs' knowledge transfer      
 
 Job Experience
 ======   
