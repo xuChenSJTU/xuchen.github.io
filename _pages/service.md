@@ -11,7 +11,7 @@ Conference Reviewers
 1. International Conference on Machine Learning (ICML)       
 2. Neural Information Processing Systems (NeurIPS)
 3. International Conference on Learning Representations (ICLR)
-4. ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+4. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)   
 
 Journal Reviewers
 ======
