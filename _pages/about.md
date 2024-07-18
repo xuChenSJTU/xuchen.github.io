@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Xu Chen is currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy machine learning and information retrieval. Before taking the faculty job, he received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
+Xu Chen is currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy representation learning, information retrieval and knowledge transfer. Before taking the faculty job, he received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
 He also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. He has published top journal and conference papers. He has been the PC members of conferences including ICML, NeurIPS, ICLR, KDD and serve as the reviewers of TPAMI, TNNLS, MLJ, TKDE.
 
 Research Interests
-======
-**·** **Trustworthy machine learning**  
-**·** **Information retrieval**  
-**·** **Knowledge transfer**  
+======    
+**·** **Trustworthy representation learning**  graph representation learning / self-supervised learning / pretraining       
+**·** **Information retrieval**  ranking / recommendation / sequential modeling     
+**·** **Knowledge transfer**  cross-domain knowledge transfer / vLLMs' knowledge transfer      
 
 Job Experience
-------
+======   
 **·** **Algorithm Expert** (May, 2024 -- Now)  
 Taobao, Alibaba Group    
 **·** **Senior Algorithm Engineer** (October, 2021 -- May, 2024)  
@@ -26,7 +26,7 @@ Taobao, Alibaba Group
 Damo Acedemy, Alibaba Group  
 
 Education
-------
+======   
 **·** **Doctor of Philosophy** (August, 2019 -- May, 2022)   
 Faculty of Engineering and Information Technology, University of Technology Sydney  
 Supervised by [Prof.Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang)  
@@ -37,7 +37,7 @@ Supervised by [Prof.Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/)
 Electronic Information Engineering, XiDian University
 
 Honors and Awards
-------
+======   
 **·** 2021 杭州市顶尖人才  
 **·** 2019 中国留学基金委CSC公派留学奖学金  
 **·** 2017 上海交通大学协同创新中心A等奖学金  
