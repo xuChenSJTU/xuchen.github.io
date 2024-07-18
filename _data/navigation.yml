@@ -7,7 +7,7 @@ main:
     url: /Service/
 
   - title: "Join Us"
-    url: /Join Us/
+    url: /join_us/
 
   # - title: "Talks"
   #   url: /talks/    
