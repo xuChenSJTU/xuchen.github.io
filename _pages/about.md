@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Xu Chen is currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy representation learning, information retrieval and knowledge transfer. Before taking the faculty job, he received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
-He also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. He has published 15+ top journal and conference papers. He has been the PC members of conferences including ICML, NeurIPS, ICLR, KDD and serve as the reviewers of TPAMI, TNNLS, MLJ, TKDE.
+He also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. He has published 15+ top journal and conference papers, with 1500+ google scholar citations. He has also been the PC members of conferences including ICML, NeurIPS, ICLR, KDD and serve as the reviewers of TPAMI, TNNLS, MLJ, TKDE.
 
 Research Interests
 ======    
