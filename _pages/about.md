@@ -23,7 +23,7 @@ Taobao, Alibaba Group
 **·** **Senior Algorithm Engineer** (October, 2021 -- April, 2024)  
 Taobao, Alibaba Group  
 **·** **Research Intern** (September, 2020 -- December, 2020)  
-Damo Acedemy, Alibaba Group  
+DAMO Acedemy, Alibaba Group  
 
 Education
 ======   
