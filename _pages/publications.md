@@ -11,6 +11,7 @@ author_profile: true
 
 News
 ======
+**·** [2024.10] One of our work about pretraining model of large-scale user behaviors will come out.      
 **·** [2024.08] One of our work about multi-branch cooperation network for large-scale CTR will come out.      
 **·** [2024.08] One of our work about counterfactual learning based search enhanced recommendation will come out.    
 **·** [2024.07] Our work is accepted by ECCV 2024, about innovative acceleration of foundation models.   
