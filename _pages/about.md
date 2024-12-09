@@ -38,6 +38,7 @@ Electronic Information Engineering, XiDian University
 
 Honors and Awards
 ======   
+**·** 2024 淘天集团--技术坚毅之星  
 **·** 2021 杭州市顶尖人才  
 **·** 2019 中国留学基金委CSC公派留学奖学金  
 **·** 2017 上海交通大学协同创新中心A等奖学金  
