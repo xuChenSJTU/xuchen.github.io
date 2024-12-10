@@ -23,7 +23,7 @@ Papers
    **Xu Chen**, Zida Cheng, Yuangang Pan, Shuai Xiao, Xiaoming Liu, Jinsong Lan, Qingwen Liu, Ivor W. Tsang
    [https://arxiv.org/abs/2411.13057](https://arxiv.org/abs/2411.13057) (Arxiv Nov. 2024)  
 2. Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation      
-   Jiajun Cui, **Xu Chen**, Shuai Xiao, Chen Ju, Jinsong Lan, Qingwen Liu, Wei Zhang
+   Jiajun Cui, **Xu Chen**, Shuai Xiao, Chen Ju, Jinsong Lan, Qingwen Liu, Wei Zhang  
    [https://arxiv.org/abs/2411.13057](https://arxiv.org/abs/2411.18631) (Arxiv Nov. 2024)   
 3. Turbo: Informativity-Driven Acceleration Plug-in for Vision-Language Models    
    Chen Ju, Haicheng Wang, Zeqian Li, **Xu Chen**, Zhonghua Zhai, Weilin Huang, Shuai Xiao     
