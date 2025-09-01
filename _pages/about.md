@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy representation learning, information retrieval and knowledge transfer. Before taking the faculty job, he received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
-He also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. He has published 15+ top journal and conference papers, with 2000+ google scholar citations. He has also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
+I am currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy representation learning, information retrieval and knowledge transfer. Before taking the faculty job, I received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
+I also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. I have published 15+ top journal and conference papers, with 2000+ google scholar citations. I have also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
 
 Research Interests
 ======    
@@ -19,9 +19,10 @@ Research Interests
 Job Experience
 ======   
 **·** **Algorithm Expert** (May, 2024 -- Now)  
-Taobao, Alibaba Group    
+Taobao Pailitao, Alibaba Group  
+Team Leader of a 10 people group, including directions of **User Preference Modeling**, **vLLM based Query-Doc Relevance Modeling** and **Lightweight vLLM Models**  
 **·** **Senior Algorithm Engineer** (October, 2021 -- April, 2024)  
-Taobao, Alibaba Group  
+Taobao Pailitao, Alibaba Group  
 **·** **Research Intern** (September, 2020 -- December, 2020)  
 DAMO Acedemy, Alibaba Group  
 
