@@ -20,7 +20,7 @@ Job Experience
 ======   
 **·** **Algorithm Expert** (May, 2024 -- Now)  
 Taobao Pailitao, Alibaba Group  
-Team Leader of a 10 people group, including directions of **User Preference Modeling**, **vLLM based Query-Doc Relevance Modeling** and **Lightweight vLLM Models**  
+Team Leader of a 10 people group, including directions of *User Preference Modeling*, *vLLM based Query-Doc Relevance Modeling* and *Lightweight vLLM Models*  
 **·** **Senior Algorithm Engineer** (October, 2021 -- April, 2024)  
 Taobao Pailitao, Alibaba Group  
 **·** **Research Intern** (September, 2020 -- December, 2020)  
